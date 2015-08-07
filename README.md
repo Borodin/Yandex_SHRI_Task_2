@@ -1,6 +1,6 @@
 #ШРИ Задание №2 — Клиентское приложение (работа с API)
 
-Рабочий пример — [borodin.github.io/Yandex_SHRI_Task_2/](http://borodin.github.io/Yandex_SHRI_Task_2/) (вывод в консоль)
+Рабочий пример — [borodin.github.io/Yandex_SHRI_Task_2/](http://borodin.github.io/Yandex_SHRI_Task_2/)
 
 ###1. Исправление ошибки
 Код не работает из за того, что в функции `callback` не указанна переменная `request`, когда эта функция вызывается она берез значение `request` из внешнего LexicalEnvironment.
